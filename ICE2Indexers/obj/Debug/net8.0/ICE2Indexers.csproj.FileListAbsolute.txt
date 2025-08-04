@@ -12,3 +12,18 @@ C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\source\repos\ICE2
 C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\source\repos\ICE2Indexers\ICE2Indexers\obj\Debug\net8.0\ICE2Indexers.pdb
 C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\source\repos\ICE2Indexers\ICE2Indexers\obj\Debug\net8.0\ICE2Indexers.genruntimeconfig.cache
 C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\source\repos\ICE2Indexers\ICE2Indexers\obj\Debug\net8.0\ref\ICE2Indexers.dll
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\bin\Debug\net8.0\ICE2Indexers.exe
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\bin\Debug\net8.0\ICE2Indexers.deps.json
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\bin\Debug\net8.0\ICE2Indexers.runtimeconfig.json
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\bin\Debug\net8.0\ICE2Indexers.dll
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\bin\Debug\net8.0\ICE2Indexers.pdb
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\obj\Debug\net8.0\ICE2Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\obj\Debug\net8.0\ICE2Indexers.AssemblyInfoInputs.cache
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\obj\Debug\net8.0\ICE2Indexers.AssemblyInfo.cs
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\obj\Debug\net8.0\ICE2Indexers.csproj.CoreCompileInputs.cache
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\obj\Debug\net8.0\ICE2Indexers.sourcelink.json
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\obj\Debug\net8.0\ICE2Indexers.dll
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\obj\Debug\net8.0\refint\ICE2Indexers.dll
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\obj\Debug\net8.0\ICE2Indexers.pdb
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\obj\Debug\net8.0\ICE2Indexers.genruntimeconfig.cache
+C:\Users\zandr\Downloads\PROG6212ICE2\ICE2Indexers\obj\Debug\net8.0\ref\ICE2Indexers.dll
