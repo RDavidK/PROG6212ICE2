@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ICE2Indexers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3608bfa93c6025f0a558467dce20d24f45dee132")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4a0cff60bc756745df1a28ddc2d26d003aa2146")]
 [assembly: System.Reflection.AssemblyProductAttribute("ICE2Indexers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ICE2Indexers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
